@@ -1,12 +1,5 @@
 # COMO USAR
 primeira linha do txt é a quantidade de vértices
-a partir da segunda linha, inserir as arestas conectadas separadas por enter, por exemplo:
+a partir da segunda linha, inserir as arestas conectadas separadas por enter, fazer conforme o exemplo.txt
 
-------------
-
-6
-1 2
-2 3
-1 4
-2 4
-5 6
+O NOME DO ARQUIVO DEVE SER GRAFO.TXT
